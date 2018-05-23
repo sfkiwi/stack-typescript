@@ -6,6 +6,11 @@ and iterable protocols.
 
 This stack uses the [linked-list-typescript][list] as the underlying datastructure.
 
+See Also:
+ - [linked-list-typescript][list]
+ - [hashlist-typescript][hashlist]
+ - [queue-typescript][queue]
+
 ## Installation
 
 [npm][]:
@@ -271,3 +276,9 @@ result // => [4, 5, 6, 7]
 [wiki]: https://simple.wikipedia.org/wiki/Stack_(data_structure)
 
 [list]: https://www.npmjs.com/package/linked-list-typescript
+
+[stack]: https://www.npmjs.com/package/stack-typescript
+
+[queue]: https://www.npmjs.com/package/queue-typescript
+
+[hashlist]: https://www.npmjs.com/package/hashlist-typescript
