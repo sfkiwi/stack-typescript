@@ -1,6 +1,6 @@
 {
   "name": "stack-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Typescript Stack with generics type support",
   "main": "lib/src/index.js",
   "typings": "lib/src/index",
